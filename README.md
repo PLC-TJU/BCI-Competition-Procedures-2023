@@ -1,4 +1,4 @@
-# BCI-Competition-Procedure-2023s
+# BCI-Competition-Procedures-2023
 Training Program Procedures for TJU-MI's Participation in the 2023 BCI Competition MI Competition Program
 
 Authors: Pan Lincong <panlincong@tju.edu.cn>
