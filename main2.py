@@ -67,9 +67,9 @@ if __name__ == '__main__':
         all_labels.append(labels)
       
     for sub in range(0,8):
-        paraset1 = Paraset1[sub][:200]
-        paraset2 = Paraset2[sub][:200]
-        paraset3 = Paraset3[sub][:200]
+        paraset1 = Paraset1[sub][:150]
+        paraset2 = Paraset2[sub][:150]
+        paraset3 = Paraset3[sub][:150]
         paraset1, _ = merge_items(paraset1)
         paraset2, _ = merge_items(paraset2)
         paraset3, _ = merge_items(paraset3)
