@@ -1,9 +1,9 @@
 # BCI-Competition-Procedures-2023
 Training Program Procedures for TJU-MI's Participation in the 2023 BCI Competition MI Competition Program
 
-Authors: Pan Lincong <panlincong@tju.edu.cn>
-Date: 2023/08/28
-License: MIT License
+Authors: XXX  
+Date: 2023/08/28  
+License: MIT License  
 
 Offline training program:
 1. Place the final training data in the TrainData folder.
